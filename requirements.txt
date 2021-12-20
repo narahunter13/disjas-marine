@@ -2,5 +2,4 @@ streamlit
 pandas
 numpy
 plotly.express
-PIL
-Image
+PIL.Image
