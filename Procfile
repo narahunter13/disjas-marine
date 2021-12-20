@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run disjas.py
+web: sh setup.sh && streamlit run app.py
